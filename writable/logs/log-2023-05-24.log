@@ -1,0 +1,74 @@
+CRITICAL - 2023-05-24 07:08:01 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:08:49 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:08:51 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:08:51 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:08:51 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:39:34 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:42:32 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:43:14 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:43:24 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:45:01 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:45:23 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-24 07:10:07 --> Undefined constant "App\Controllers\Hello"
+in APPPATH\Controllers\signup.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\signup->signup_form()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\signup))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 07:11:22 --> Undefined constant "App\Controllers\Hello"
+in APPPATH\Controllers\signup.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\signup->signup_form()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\signup))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 08:53:51 --> Array to string conversion
+in APPPATH\Controllers\signup.php on line 25.
+ 1 APPPATH\Controllers\signup.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter\\app\\Controllers\\signup.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\signup->signup_form()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\signup))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

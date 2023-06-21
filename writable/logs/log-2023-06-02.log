@@ -1,0 +1,44 @@
+CRITICAL - 2023-06-02 06:14:38 --> Undefined array key "Id"
+in APPPATH\Views\userpg.php on line 155.
+ 1 APPPATH\Views\userpg.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Id"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php', 155)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('userpg', [], true)
+ 5 APPPATH\Controllers\userpg.php(9): view('userpg')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\userpg->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\userpg))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 06:14:46 --> Undefined array key "Id"
+in APPPATH\Views\userpg.php on line 155.
+ 1 APPPATH\Views\userpg.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Id"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php', 155)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('userpg', [], true)
+ 5 APPPATH\Controllers\userpg.php(9): view('userpg')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\userpg->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\userpg))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 06:16:30 --> Undefined array key "Id"
+in APPPATH\Views\userpg.php on line 155.
+ 1 APPPATH\Views\userpg.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Id"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php', 155)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('userpg', [], true)
+ 5 APPPATH\Controllers\userpg.php(9): view('userpg')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\userpg->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\userpg))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 06:17:19 --> Undefined array key "Id"
+in APPPATH\Views\userpg.php on line 155.
+ 1 APPPATH\Views\userpg.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Id"', 'C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php', 155)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\codeigniter\\app\\Views\\userpg.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('userpg', [], true)
+ 5 APPPATH\Controllers\userpg.php(9): view('userpg')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\userpg->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\userpg))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
